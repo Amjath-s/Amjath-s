@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Hey, I'm Amjath 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=Amjath-s&color=blue&style=flat-square)
 ### Full-Stack Developer | Building for the Web & Beyond
 
 I'm a Computer Science graduate focused on building modern, scalable applications with a strong interest in **web development, backend systems, AI, and emerging technologies**.
