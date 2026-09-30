@@ -55,13 +55,13 @@ I enjoy taking an idea from **concept → architecture → implementation → de
 </p>
 
 ---
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amjath-s&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amjath-s&layout=compact&hide_border=true" height="180"/>
-</p>
+  
+  ## 📈 GitHub
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amjath-s&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amjath-s&layout=compact&hide_border=true" height="180"/>
+  </p>
 
 ## 🔥 GitHub Streak
 
@@ -72,5 +72,5 @@ I enjoy taking an idea from **concept → architecture → implementation → de
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amjath-s&hide_border=true" />
+  <img src="https://ghchart.rshah.org/Amjath-s" alt="Amjath's GitHub contributions" />
 </p>
